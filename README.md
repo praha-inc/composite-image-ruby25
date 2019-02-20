@@ -4,6 +4,7 @@ Then, Put AWS S3
 
 # Prepare
 Create AWS Account.
+
 Then, You have to write AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY to .envrc
 
 # Init
